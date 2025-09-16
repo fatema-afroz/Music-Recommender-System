@@ -7,7 +7,7 @@ For text preprocessing we did ->
 - Tokenization into words 
 - Stopword removal 
 - Stemming
-- 
+  
 The project was inspired by online tutorials on music recommendation systems. All code, UI design, and additional features (similarity scores, album cover fetching, Streamlit layout) were implemented and adapted by me.
 
 HOW IT WORKS-
