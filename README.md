@@ -1,2 +1,2 @@
 # Music-Recommender-System
-A recommender to recommend songs using unsupervised ML techniques
+A recommender system to recommend songs using unsupervised ML techniques.
