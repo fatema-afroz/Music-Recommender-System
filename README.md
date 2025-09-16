@@ -4,13 +4,14 @@ names along with links to the song and lyrics. It has textual entries of songs c
 - lowercasing text 
 - Tokenization into words 
 - Stopword removal 
-- Stemming 
+- Stemming
+- 
 The project was inspired by online tutorials on music recommendation systems. All code, UI design, and additional features (similarity scores, album cover fetching, Streamlit layout) were implemented and adapted by me
 
 HOW IT WORKS-
-Uses a precomputed similarity matrix for songs.
-Finds the top 5 songs most similar to the selected song.
-Fetches album covers dynamically from Spotify API.
-Displays results in a clean Streamlit UI.
+- Uses a precomputed similarity matrix for songs.
+- Finds the top 5 songs most similar to the selected song.
+- Fetches album covers dynamically from Spotify API.
+- Displays results in a clean Streamlit UI.
 
 dataset link - https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
